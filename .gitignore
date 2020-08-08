@@ -1,0 +1,7 @@
+
+# Databse configuration file
+kool_api/database.py
+
+# Django migration files
+__pycache__/
+migrations/
